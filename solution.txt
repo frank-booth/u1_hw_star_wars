@@ -1,0 +1,172 @@
+ 224  git clone https://github.com/frank-booth/u1_hw_star_wars.git
+  225  ls
+  226  u1_hw_star_wars
+  227  code .
+  228  ls
+  229  act1
+  230  mkdir star_wars
+  231  star_wars
+  232  ls
+  233  mkdir empire rebellion
+  234  empire
+  235  touch darth_vader.txt
+  236  ls
+  237  rm -r darth_vader.txt
+  238  ls
+  239  touch darth_vader.txt
+  240  echo "...heavy breathing..." darth_vader.txt
+  241  ls
+  242  echo "...heavy breathing..." >>darth_vader.txt
+  243  clear
+  244  touch emperor_palpatine.txt
+  245  ls
+  246  mkdir death_star
+  247  ls
+  248  mv darth_vader.txt /death_star
+  249  mv /empire/darth_vader.txt /death_star/darth_vader.txt
+  250  mv /darth_vader.txt /death_star/darth_vader.txt
+  251  ls
+  252  pwd
+  253  mv ~/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/darth_vader.txt ~/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/darth_vader.txt
+  254  ls
+  255  death_star
+  256  cd death_star
+  257  ls
+  258  ..
+  259  empire
+  260  ls
+  261  rm -r ls
+  262  ls
+  263  empire
+  264  clear
+  265  ls
+  266  mkdir empire
+  267  ls
+  268  empire
+  269  touch darth_vader.txt
+  270  ls
+  271  echo "...heavy breathing..." >>darth_vader.txt
+  272  touch emperor_palpatine.txt
+  273  mkdir death_star
+  274  ls
+  275  mv darth_vader.txt /death_star
+  276  ls
+  277  pwd
+  278  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/darth_vader.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/darth_vader.txt
+  279  ls
+  280  death_star
+  281  ls
+  282  ..
+  283  git add .
+  284  git commit -m"Act1 completed"
+  285  star_wars
+  286  rebellion
+  287  touch princess_leia.txt && echo "Help me, Obi-Wan..." >>princess_leia.txt 
+  288  touch obi_wan.txt
+  289  ls
+  290  touch luke_skywalker.txt
+  291  clear
+  292  mkdir millenium_falcon
+  293  ls
+  294  millenium_falcon
+  295  touch han_solo.txt chewbacca.txt
+  296  ls
+  297  pwd
+  298  ..
+  299  pwd
+  300  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/luke_skywalker.txt obi_wan.txt princess_leia.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/luke_skywalker.txt obi_wan.txt princess_leia.txt
+  301  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/luke_skywalker.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/luke_skywalker.txt
+  302  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/obi_wan.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/obi_wanr.txt
+  303  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/princess.leia.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/princess_leiar.txt
+  304  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/princess.leia.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/princess_leia.txt 
+  305  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/princess_leia.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/princess_leia.txt 
+  306  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/obi_wanr.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/obi_wan.txt       
+  307  ls
+  308  millenium_falcon
+  309  ls
+  310  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/obi_wanr.txt /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon/obi_wan.txt       
+  311  pwd
+  312  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star//millenium_falcon
+  313  ..
+  314  clear
+  315  ..
+  316  ~
+  317  desktop
+  318  GA/unit1/tuesday/homework
+  319  GA
+  320  ls
+  321  unit1
+  322  ls
+  323  week1/tuesday/homework
+  324  ls
+  325  u1_hw_star_wars
+  326  git add .
+  327  git commit -m"Act2 completed"
+  328  star
+  329  star_wars
+  330  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/death_star/millenium_falcon/* /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/*\n
+  331  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/* /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/*                
+  332  empire
+  333  ls
+  334  death_star
+  335  ls
+  336  millenium_falcon
+  337  ls
+  338  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/*
+  339  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/* mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/
+  340  mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/* mv /Users/jeff_fraley/Desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star
+  341  ls
+  342  ..
+  343  ls
+  344  rm -r obi_wan.txt
+  345  l
+  346  ls
+  347  clear
+  348  pwd
+  349  mv 
+  350  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/han_solo.txt && luke_skywalker.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon
+  351  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/han_solo.txt && luke_skywalker.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/
+  352  /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/han_solo.txt && luke_skywalker.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/han_solo.txt && luke_skywalker.txt
+  353  /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/han_solo.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/han_solo.txt
+  354  clear
+  355  /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/han_solo.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/han_solo.txt
+  356  ~
+  357  dekstop GA/unit1/week1/tuesday/homework
+  358  desktop/GA/unit1/week1/tuesday/homework
+  359  ls
+  360  u1
+  361  u1_hw_star_wars/pwd
+  362  pwd
+  363  star_wars
+  364  u1_hw_star_wars
+  365  star_wars
+  366  pwd
+  367  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/han_solo.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/han_solo.txt
+  368  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/luke_skywalker.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/luke_skywalker.txt
+  369  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/chewbacca.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/chewbacca.txt
+  370  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/princess_leia.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/princess_leia.txt
+  371  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/rebellion/millenium_falcon
+  372  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/darth_vader.txt/Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/darth_vader.txt
+  373  pwd
+  374  /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/darth_vader.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/darth_vader.txt
+  375  ~
+  376  clear
+  377  dekstop/GA/unit1/week1/tuesday/homework
+  378  desktop/GA/unit1/week1/tuesday/homework
+  379  ls
+  380  u1
+  381  ls
+  382  u1_hw_star_wars
+  383  star_wars
+  384  pwd
+  385  mv /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/death_star/darth_vader.txt /Users/jeff_fraley/desktop/GA/unit1/week1/tuesday/homework/u1_hw_star_wars/star_wars/empire/darth_vader.txt
+  386  rm -r death_star
+  387  ls
+  388  empire
+  389  ls
+  390  rm -r death_star
+  391  ls
+  392  ..
+  393  git add .
+  394  git commit -m"Act3 completed"
+  395  history | tail -n 250
